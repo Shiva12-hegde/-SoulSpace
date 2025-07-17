@@ -1,4 +1,5 @@
 🌿 -SoulSpace
+#
 SoulSpace is a simple and elegant desktop meditation timer app designed to help you relax, focus, and practice mindfulness.
 It lets you set a customizable meditation duration, plays soothing background music, and provides a calming visual interface to make your meditation experience more enjoyable.
 
